@@ -1,6 +1,10 @@
 /*
 Code: Saiful Hasan.
 Contact: Saiful.hasan@outlook.com
+
+
+Version: 1.01
+Date: 09/05/18
 */
 
 //-----------------------Including library------------------------------//
